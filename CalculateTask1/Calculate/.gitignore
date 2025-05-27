@@ -1,0 +1,49 @@
+﻿
+# C++ object and binary files
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+
+# CMake build folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# IDE specific
+.vscode/
+.idea/
+
+# CLion / Rider
+cmake-build-*/
+
+# Visual Studio
+*.vcxproj*
+*.sln
+*.user
+*.sdf
+*.ipch
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# Others
+*.tmp
+*.swp
+
+# Logs
+*.log
+*.json
+*.vsidx
